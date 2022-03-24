@@ -1,0 +1,43 @@
+body {
+  color: rgb(228, 190, 120);
+}
+table {
+  font-size: 60px;
+}
+#about {
+  color: black;
+}
+#animals {
+  background-color: rgb(226, 211, 184);
+}
+#animals2 {
+  background-color: red;
+}
+#animalsheader {
+  font-size: 90px;
+  color: aliceblue;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
